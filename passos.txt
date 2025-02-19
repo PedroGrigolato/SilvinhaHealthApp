@@ -1,0 +1,12 @@
+git config --global user.name PedraoGrigolato
+git config --global user.email pedrohenriquegrigolato3@gmail.com
+
+Abrir o trerminal: Ctrl + '
+
+Criar um projeto React Native com Expo:
+npx create-expo-app@latest SilvinhaHealthApp --template blank
+
+cd SilvinhaHealthApp
+
+Executar o projeto:
+npx expo start()para rodar local: --localhost --android
